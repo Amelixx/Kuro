@@ -1,0 +1,460 @@
+{
+    "0": {
+        "name": "0",
+        "color": 0,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "1": {
+        "id": "402659427615899668",
+        "name": "1",
+        "color": 16712708,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "2": {
+        "id": "402659438592393218",
+        "name": "2",
+        "color": 16722948,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "3": {
+        "id": "402659450038517781",
+        "name": "3",
+        "color": 16733444,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "4": {
+        "id": "402659459866034177",
+        "name": "4",
+        "color": 16738564,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "5": {
+        "id": "402659470448132106",
+        "name": "5",
+        "color": 16749060,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "6": {
+        "id": "402659486881415168",
+        "name": "6",
+        "color": 16756228,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "7": {
+        "id": "402659529827024906",
+        "name": "7",
+        "color": 16764932,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "8": {
+        "id": "402659550605344778",
+        "name": "8",
+        "color": 16773636,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "9": {
+        "id": "402659561703473163",
+        "name": "9",
+        "color": 14024452,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "10": {
+        "id": "402659571962740737",
+        "name": "10",
+        "color": 9568004,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "11": {
+        "id": "402659587951427595",
+        "name": "11",
+        "color": 7274244,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "12": {
+        "id": "402659614270947328",
+        "name": "12",
+        "color": 3276548,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "13": {
+        "id": "402659624509112321",
+        "name": "13",
+        "color": 327431,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "14": {
+        "id": "402659642863386625",
+        "name": "14",
+        "color": 327500,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "15": {
+        "id": "402659654162710530",
+        "name": "15",
+        "color": 327568,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "16": {
+        "id": "402659667198607360",
+        "name": "16",
+        "color": 327623,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "17": {
+        "id": "402659683644735488",
+        "name": "17",
+        "color": 327657,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "18": {
+        "id": "402659700333740034",
+        "name": "18",
+        "color": 319231,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "19": {
+        "id": "402659714250440715",
+        "name": "19",
+        "color": 306943,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "20": {
+        "id": "402659728116809734",
+        "name": "20",
+        "color": 298239,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "21": {
+        "id": "402659741706485772",
+        "name": "21",
+        "color": 291327,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "22": {
+        "id": "402659751491665930",
+        "name": "22",
+        "color": 285951,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "23": {
+        "id": "402659760668803072",
+        "name": "23",
+        "color": 271871,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "24": {
+        "id": "402659770550583296",
+        "name": "24",
+        "color": 328959,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "25": {
+        "id": "402659785322921984",
+        "name": "25",
+        "color": 2557183,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "26": {
+        "id": "402659873403174913",
+        "name": "26",
+        "color": 4785407,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "27": {
+        "id": "402659887680585728",
+        "name": "27",
+        "color": 6620415,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "28": {
+        "id": "402659902289477642",
+        "name": "28",
+        "color": 9307391,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "29": {
+        "id": "402659914188587018",
+        "name": "29",
+        "color": 11994367,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "30": {
+        "id": "402659928889622529",
+        "name": "30",
+        "color": 13763839,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "31": {
+        "id": "402659965703159808",
+        "name": "31",
+        "color": 15598847,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "32": {
+        "id": "402659984422338561",
+        "name": "32",
+        "color": 16712935,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "33": {
+        "id": "402659996308996109",
+        "name": "33",
+        "color": 16712901,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "34": {
+        "id": "402660009466658816",
+        "name": "34",
+        "color": 16712874,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "35": {
+        "id": "402660025400819713",
+        "name": "35",
+        "color": 16712846,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "36": {
+        "id": "402660040038809600",
+        "name": "36",
+        "color": 16712798,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "37": {
+        "id": "402660053120974849",
+        "name": "37",
+        "color": 16712757,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "38": {
+        "id": "402660066962046996",
+        "name": "38",
+        "color": 1752220,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "39": {
+        "id": "402660084523597825",
+        "name": "39",
+        "color": 1146986,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "40": {
+        "id": "402660098767323156",
+        "name": "40",
+        "color": 3066993,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "41": {
+        "id": "402660111849619466",
+        "name": "41",
+        "color": 2067276,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "42": {
+        "id": "402661065865035786",
+        "name": "42",
+        "color": 3447003,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "43": {
+        "id": "402661111196811274",
+        "name": "43",
+        "color": 2123412,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "44": {
+        "id": "402661124975099916",
+        "name": "44",
+        "color": 10181046,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "45": {
+        "id": "402661134080933888",
+        "name": "45",
+        "color": 7419530,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "46": {
+        "id": "402661152347258880",
+        "name": "46",
+        "color": 15277667,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "47": {
+        "id": "402661182764220435",
+        "name": "47",
+        "color": 11342935,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "48": {
+        "id": "402661197301809153",
+        "name": "48",
+        "color": 15844367,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "49": {
+        "id": "402661211877146624",
+        "name": "49",
+        "color": 12745742,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    },
+    "50": {
+        "id": "402661226553016324",
+        "name": "50",
+        "color": 4338226,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": true
+    }
+}

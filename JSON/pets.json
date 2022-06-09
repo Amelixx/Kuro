@@ -1,0 +1,28 @@
+{
+    "Koala": {
+        "description": "I'm a koala and I sleep all the timee so what it's cute",
+        "price": 10000,
+        "maxHealth": 100,
+        "maxHunger": 100,
+        "maxPlay": 100,
+        "defaultEmoji": "🐨"
+    },
+    "Lemon": {
+        "description": "This wasn't my idea. Rots and dies within 5 days.",
+        "price": 5,
+        "maxHealth": 5,
+        "healthLossRate": [1, 1],
+        "maxHunger": -1,
+        "maxPlay": 1000,
+        "defaultEmoji": "🍋"
+    },
+    "Magical Axolotl": {
+        "developer": true,
+        "price": 99999,
+        "description": "that description was cringe",
+        "maxHealth": 9999,
+        "maxHunger": 999,
+        "maxPlay": 100,
+        "defaultEmoji": ""
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "1": {
+        "name": "1",
+        "color": 15143956,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "2": {
+        "name": "2",
+        "color": 16726276,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "3": {
+        "name": "3",
+        "color": 16733444,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "4": {
+        "name": "4",
+        "color": 16742148,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "5": {
+        "name": "5",
+        "color": 16750852,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "6": {
+        "name": "6",
+        "color": 16758020,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "7": {
+        "name": "7",
+        "color": 16771844,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "8": {
+        "name": "8",
+        "color": 13565700,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "9": {
+        "name": "9",
+        "color": 9568004,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "10": {
+        "name": "10",
+        "color": 4128516,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "11": {
+        "name": "11",
+        "color": 327459,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "12": {
+        "name": "12",
+        "color": 327534,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "13": {
+        "name": "13",
+        "color": 327582,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "14": {
+        "name": "14",
+        "color": 327630,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "15": {
+        "name": "15",
+        "color": 327657,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "16": {
+        "name": "16",
+        "color": 322815,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "17": {
+        "name": "17",
+        "color": 308735,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "18": {
+        "name": "18",
+        "color": 298239,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "19": {
+        "name": "19",
+        "color": 287743,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "20": {
+        "name": "20",
+        "color": 280831,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "21": {
+        "name": "21",
+        "color": 270079,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "22": {
+        "name": "22",
+        "color": 328959,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "23": {
+        "name": "23",
+        "color": 3015935,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "24": {
+        "name": "24",
+        "color": 6488319,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "25": {
+        "name": "25",
+        "color": 9307391,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "26": {
+        "name": "26",
+        "color": 11535615,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "27": {
+        "name": "27",
+        "color": 13763839,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "28": {
+        "name": "28",
+        "color": 16712956,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "29": {
+        "name": "29",
+        "color": 16712935,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "30": {
+        "name": "30",
+        "color": 16712887,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "31": {
+        "name": "31",
+        "color": 16712853,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "32": {
+        "name": "32",
+        "color": 16712819,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "33": {
+        "name": "33",
+        "color": 16712785,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "34": {
+        "name": "34",
+        "color": 16712723,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "35": {
+        "name": "35",
+        "color": 13910446,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "36": {
+        "name": "36",
+        "color": 1752220,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "38": {
+        "name": "38",
+        "color": 2067276,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "39": {
+        "name": "39",
+        "color": 2123412,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "40": {
+        "name": "40",
+        "color": 10181046,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "41": {
+        "name": "41",
+        "color": 7419530,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "42": {
+        "name": "42",
+        "color": 15277667,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "43": {
+        "name": "43",
+        "color": 11342935,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "44": {
+        "name": "44",
+        "color": 15844367,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "45": {
+        "name": "45",
+        "color": 15105570,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "46": {
+        "name": "46",
+        "color": 10880518,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "47": {
+        "name": "47",
+        "color": 9807270,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "48": {
+        "name": "48",
+        "color": 5533306,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "49": {
+        "name": "49",
+        "color": 2759708,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "50": {
+        "name": "50",
+        "color": 3553598,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    },
+    "51": {
+        "name": "51",
+        "color": 8388564,
+        "hoist": false,
+        "permissions": 0,
+        "managed": false,
+        "mentionable": false
+    }
+}

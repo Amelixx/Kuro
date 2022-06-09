@@ -1,0 +1,142 @@
+{
+    "Fish": {
+        "type": "fish",
+        "sell": 40,
+        "emoji": "🐟"
+    },
+    "Tropical Fish": {
+        "type": "fish",
+        "sell": 300,
+        "emoji": "🐠"
+    },
+    "Blowfish": {
+        "type": "fish",
+        "sell": 180,
+        "emoji": "🐡"
+    },
+    "Shark": {
+        "type": "large_fish",
+        "sell": 400,
+        "emoji": "🦈"
+    },
+    "Crocodile": {
+        "type": "large_fish",
+        "sell": 600,
+        "emoji": "🐊"
+    },
+    "Giant Squid": {
+        "type": "large_fish",
+        "sell": 850,
+        "emoji": "🦑"
+    },
+    "Whale": {
+        "type": "large_fish",
+        "sell": 1000,
+        "emoji": "🐳"
+    },
+    "Marriage Ring": {
+        "description": "Show your commitment to someone, or just wear a fancy ring.",
+        "price": 125,
+        "emoji": "💍"
+    },
+    "Fishing Rod": {
+        "description": "A simple old fishing rod. Use it to catch fish!",
+        "price": 500,
+        "emoji": "🎣"
+    },
+    "Golden Fishing Rod": {
+        "description": "Like a fishing rod, but can magically catch very large creatures and increases chance of rarer fish. Shiny!",
+        "price": 15000,
+        "emoji": "<:goldenfishingrod:714092500641513493>"
+    },
+    "Pickaxe": {
+        "description": "A simple pickaxe. Use it to dig!",
+        "price": 1500,
+        "emoji": "⛏️"
+    },
+    "Crystal Ball": {
+        "description": "A magical crystal ball. Halves cooldowns... Somehow.",
+        "price": 30000,
+        "emoji": "🔮"
+    },
+    "Sand Sand Castle": {
+        "description": "[Haha sand sand castle](https://cdn.discordapp.com/attachments/689734321367679106/759246840335171604/image1.jpg)",
+        "price": 5,
+        "emoji": "🏰"
+    },
+    "Gun": {
+        "description": "Functionally useless, but don't point it at anyone, just in case.",
+        "price": 680,
+        "emoji": "🔫"
+    },
+    "Blue Book": {
+        "description": "It's a blue book.",
+        "price": 50,
+        "emoji": "📘"
+    },
+    "Green Book": {
+        "description": "It's a book, but it's green.",
+        "price": 50,
+        "emoji": "📗"
+    },
+    "Orange Book": {
+        "description": "Like the green and blue book, but it's orange.",
+        "price": 50,
+        "emoji": "📙"
+    },
+    "Red Book": {
+        "description": "Just a red book.",
+        "price": 50,
+        "emoji": "📕"
+    },
+    "Money Bag": {
+        "description": "It's a bag full of money.",
+        "price": 250,
+        "emoji": "💰"
+    },
+    "Stone": {
+        "sell": 45,
+        "prefix": "some",
+        "emoji": "<:stone:715971200274268161>"
+    },
+    "Coal": {
+        "sell": 75,
+        "prefix": "some",
+        "emoji": "<:coal:715971152065069066>"
+    },
+    "Iron": {
+        "sell": 150,
+        "prefix": "some",
+        "emoji": "<:iron:715971168695353385>"
+    },
+    "Silver": {
+        "sell": 300,
+        "prefix": "some",
+        "emoji": "<:silver:715971219505283122>"
+    },
+    "Sapphire": {
+        "sell": 800,
+        "prefix": "a",
+        "emoji": "<:sapphire:715972342492168252>"
+    },
+    "Ruby": {
+        "sell": 800,
+        "prefix": "a",
+        "emoji": "<:ruby:715971188664434829>"
+    },
+    "Emerald": {
+        "sell": 800,
+        "prefix": "an",
+        "emoji": "<:emerald:715972370241945652>"
+    },
+    "Gold": {
+        "sell": 1500,
+        "prefix": "some",
+        "emoji": "<:gold:715971257929302026>"
+    },
+    "Diamond": {
+        "sell": 2500,
+        "prefix": "a",
+        "emoji": "💎"
+    }
+}
